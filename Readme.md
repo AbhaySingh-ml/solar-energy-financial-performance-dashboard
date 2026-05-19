@@ -87,7 +87,7 @@ The dataset contains global solar energy data including:
 
 ### Financial Performance Dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Financial Performance Dashboard](screenshots/financial_performance_dashboard.png)
 
 ---
 
