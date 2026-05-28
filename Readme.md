@@ -1,4 +1,4 @@
-# Solar Energy Investment Analysis Dashboard 1 2 3 4 5 
+# Solar Energy Investment Analysis Dashboard 1 2 3 4 
 
 ## Project Overview
 
